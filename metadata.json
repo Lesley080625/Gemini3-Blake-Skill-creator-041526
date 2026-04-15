@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Reviewer - Medical Device Regulatory Intelligence Platform",
+  "description": "An advanced AI-driven platform for medical device regulatory affairs (RA) professionals, featuring agentic workflows, deep semantic analysis, and automated compliance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Analysis", "Regulatory Compliance", "Multi-language Support", "Infographic Generation"]
+}
